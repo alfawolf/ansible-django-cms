@@ -1,0 +1,6 @@
+users:
+  - default
+  - name: jas02
+    sudo:  ALL=(ALL) NOPASSWD:ALL
+    ssh_authorized_keys:
+      - ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAxWlmZ+xl9BfTYVIfzLQ6+m/7vzPFNr2yP+kT5cunUo/vGNHwnzq3Z/5vUyhOkysAWS4EiUPC2rHFiIMIsh5qRIUxcabQFvsd3fcnScPJ6t2GAbJJkLO6ZimGZdBFHOnRVi939aL4O+rS9z/2uYKJegmUyIW+WIQamimETR4zmRX5XbA/8kGzg3oOw7RSCpSkHJuGLvgba/Fk4bVo0mkcZPseEpyncC7lRJOPYVLfI4LG/eLz7HB+41E6eGHVNyV9ADCn/HaCrvJOIjO4rlDOxY53IPxthlU+41XCH1hjOYeZJ3iaSxpyjmDQYmLNj930cycSZBce4TBfVo177/cDAQ== lumir.jasiok@tieto.com
